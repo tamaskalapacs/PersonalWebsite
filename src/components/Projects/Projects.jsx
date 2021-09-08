@@ -30,6 +30,7 @@ const Projects = () => {
             title = "Example Project" 
             description = "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus qui officia ad. Sequi aliquam, autem tenetur nam molestias magni ipsam nihil odio nostrum dignissimos illum aperiam repellat quaerat voluptas unde." 
             />
+            
 
         </div>
     )

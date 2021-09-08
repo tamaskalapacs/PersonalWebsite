@@ -1,5 +1,7 @@
 .project {
     text-align: center;
+    /*border-bottom: 3px solid #383733;*/
+    border-bottom: 3px solid hotpink;
 }
 
 .project h1{
@@ -13,4 +15,5 @@
 
 .project .icon img{
     width: 30px;
+    padding-bottom: 10px;
 }
