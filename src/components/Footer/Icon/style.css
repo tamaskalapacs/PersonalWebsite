@@ -1,0 +1,11 @@
+.icon img{
+    max-width: 40px;
+    padding: 0px 5px;
+    filter: invert(31%) sepia(100%) saturate(4416%) hue-rotate(237deg) brightness(99%) contrast(99%);
+}
+
+
+
+.icon img:not(:last-child) {
+    margin-right: 10px;
+}

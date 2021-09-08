@@ -1,0 +1,16 @@
+.project {
+    text-align: center;
+}
+
+.project h1{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.project p{
+    padding-bottom: 25px;
+}
+
+.project .icon img{
+    width: 30px;
+}
