@@ -4,7 +4,7 @@ import './style.css'
 
 const Education = () => {
     return (
-        <div>
+        <div className = "education">
             Education
         </div>
     )
