@@ -11,6 +11,10 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #4d4afb;
+  /* background-color: #779ecb; */
+  /* background-color: #4169e1; */
+  /* background-color: #1e90ff; */
+  /* background-color: #00bfff; */
 }
 
 /*hide scrollbar for Chrome, Safari, Opera*/
