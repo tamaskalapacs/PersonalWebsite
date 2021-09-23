@@ -2,8 +2,6 @@ import React from 'react'
 
 import Icon from './Icon/Icon'
 
-import {AiFillLinkedin} from "react-icons/ai"
-
 import './style.css'
 
 const Footer = () => {
