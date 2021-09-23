@@ -10,7 +10,7 @@ const Projects = () => {
             {
                 projects.map((element) => {
                     return(
-                        <Project title = {element.title} description = {element.description} date = {element.date} link = {element.link}/>
+                        <Project key = {element.id} title = {element.title} description = {element.description} date = {element.date} link = {element.link}/>
                     )
                 })
             }

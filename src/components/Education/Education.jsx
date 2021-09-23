@@ -16,7 +16,6 @@ const Education = () => {
 
     return (
         <div className = "education">
-            {console.log(timelineElements)}
             <VerticalTimeline>
                 {
                     timelineElements.map((element) => {
