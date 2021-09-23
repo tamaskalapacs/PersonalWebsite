@@ -5,7 +5,11 @@
 
 .project h1{
     padding-top: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 10px;
+}
+
+.project h5{
+    padding-bottom: 30px;
 }
 
 .project p{
