@@ -49,37 +49,37 @@ const Navbar = () => {
                    <ul style = {{ left: open ? "0" : "100vw"}}>
 
                         <li>
-                            <Link onClick = {handleClose} style = {{color: location.pathname === "/" && '#4d4afb'/*'#779ecb' 'orangered' '#ff822e'*/}} to="/">
+                            <Link onClick = {handleClose} style = {{color: location.pathname === "/" && '#fbd24a'}} to="/">
                                 Home
                             </Link>
                         </li>
 
                         <li>
-                            <Link onClick = {handleClose} style = {{color: location.pathname === "/about" && '#4d4afb'/*'#779ecb' 'orangered' '#ff822e'*/}} to="/about">
+                            <Link onClick = {handleClose} style = {{color: location.pathname === "/about" && '#fbd24a'}} to="/about">
                                 About
                             </Link>
                         </li>
 
                         <li>
-                            <Link onClick = {handleClose} style = {{color: location.pathname === "/skills" && '#4d4afb'/*'#779ecb' 'orangered' '#ff822e'*/}} to="/skills">
+                            <Link onClick = {handleClose} style = {{color: location.pathname === "/skills" && '#fbd24a'}} to="/skills">
                                 Skills
                             </Link>
                         </li>
 
                         <li>
-                            <Link onClick = {handleClose} style = {{color: location.pathname === "/education" && '#4d4afb'/*'#779ecb' 'orangered' '#ff822e'*/}} to="/education">
+                            <Link onClick = {handleClose} style = {{color: location.pathname === "/education" && '#fbd24a'}} to="/education">
                                 Education
                             </Link>
                         </li>
 
                         <li>
-                            <Link onClick = {handleClose} style = {{color: location.pathname === "/projects" && '#4d4afb'/*'#779ecb' 'orangered' '#ff822e'*/}} to="/projects">
+                            <Link onClick = {handleClose} style = {{color: location.pathname === "/projects" && '#fbd24a'}} to="/projects">
                                 Projects
                             </Link>
                         </li> 
 
                         <li>
-                            <Link onClick = {handleClose} style = {{color: location.pathname === "/contact" && '#4d4afb'/*'#779ecb'*/}} to="/contact">
+                            <Link onClick = {handleClose} style = {{color: location.pathname === "/contact" && '#fbd24a'}} to="/contact">
                                 Contact
                             </Link>
                         </li>

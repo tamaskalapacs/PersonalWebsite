@@ -7,17 +7,16 @@ const About = () => {
         <div className = "about">
             <h1>Bio</h1>
             <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-            Eligendi voluptatibus dicta maxime tempora enim consectetur porro
-            vitae temporibus cupiditate harum adipisci ipsa, repellat commodi
-            excepturi ex reiciendis exercitationem iste non.
+                My name is Tamás Kalapács. I was born and raised in Hungary. In 2016 when I was 18 years old I moved to Denmark to pursue my education.
+                During my 4 years of university I grew to like Denmark so much that I decided to stay here.
             </p>
             <br />
             <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-            Ipsa consequuntur repudiandae ea provident commodi vitae vero,
-            mollitia dolore, quisquam eligendi voluptas optio praesentium!
-            Ipsam est quos vitae ullam laudantium sapiente!
+                Why it
+            </p>
+            <br />
+            <p>
+                Thinks i like
             </p>
         </div>
     )

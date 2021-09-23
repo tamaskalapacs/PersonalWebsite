@@ -1,9 +1,14 @@
 .icon img{
     max-width: 40px;
     padding: 0px 5px;
-    filter: invert(31%) sepia(100%) saturate(4416%) hue-rotate(237deg) brightness(99%) contrast(99%);
-    /* filter: invert(37%) sepia(86%) saturate(4922%) hue-rotate(6deg) brightness(106%) contrast(105%); */
-    /* filter: invert(49%) sepia(67%) saturate(691%) hue-rotate(337deg) brightness(110%) contrast(101%); */
+    /*background blue*/
+    /* filter: invert(31%) sepia(100%) saturate(4416%) hue-rotate(237deg) brightness(99%) contrast(99%);  */
+    /*dark orange*/
+    /* filter: invert(37%) sepia(86%) saturate(4922%) hue-rotate(6deg) brightness(106%) contrast(105%);  */
+    /*orange*/
+    /* filter: invert(49%) sepia(67%) saturate(691%) hue-rotate(337deg) brightness(110%) contrast(101%);*/
+    /*yellowish orange*/
+    filter: invert(77%) sepia(50%) saturate(549%) hue-rotate(357deg) brightness(102%) contrast(97%); 
 }
 
 

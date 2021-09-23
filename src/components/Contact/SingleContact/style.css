@@ -1,0 +1,15 @@
+.contactWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactWrapper p {
+    padding-left: 20px;
+}
+
+.contactWrapper img {
+    width: 20px;
+    height: 20px;
+    filter: invert(31%) sepia(100%) saturate(4416%) hue-rotate(237deg) brightness(99%) contrast(99%);
+}

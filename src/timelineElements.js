@@ -1,0 +1,60 @@
+let timelineElements = [
+    {
+        id: 1,
+        title: "Bachelor in Software Development",
+        date: "January 2019 - June 2020",
+        location: "UCN Aalborg",
+        description: "",
+        icon: "school",
+    },
+    {
+        id: 2,
+        title: "AP degree in Computer Science",
+        date: "Semptember 2016 - December 2018",
+        location: "asd",
+        description: "",
+        icon: "school",
+    },
+    {
+        id: 3,
+        title: "Intern",
+        date: "August 2018 - October 2018",
+        location: "Aveva",
+        description: "Creating an automation software that generates requireddocumantation for the main roject.",
+        icon: "work",
+    },
+    {
+        id: 4,
+        title: "Cleaner",
+        date: "March 2018 - September 2018",
+        location: "Kongsvang",
+        description: "",
+        icon: "work",
+    },
+    {
+        id: 5,
+        title: "Diswasher",
+        date: "December 2016 - September 2017",
+        location: "Fusion",
+        description: "",
+        icon: "work",
+    },
+    {
+        id: 6,
+        title: "Volunteer firefighter",
+        date: "September 2013 - August 2016",
+        location: "",
+        description: "",
+        icon: "work",
+    },
+    {
+        id: 7,
+        title: "Freelance graphic designer",
+        date: "August 2013 - April 2016",
+        location: "",
+        description: "",
+        icon: "work",
+    },
+]
+
+export default timelineElements;
