@@ -10,7 +10,7 @@ const Home = () => {
                 <h1>
                     <p>Hi,</p>
                     <p>I am 
-                        <span style={{color: '#fbd24a'}}>Tamás</span>,
+                        <span style={{color: '#fbd24a'}}> Tamás</span>,
                     </p>
                     <p>Sofware Developer</p>
                 </h1>
