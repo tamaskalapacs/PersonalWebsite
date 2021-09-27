@@ -18,12 +18,12 @@ const Home = () => {
                     <button>More Info</button>
                 </Link>
             </div>
-            <div className="profilePicture">
+            {/* <div className="profilePicture"> */}
                 <img 
-                src = {`${process.env.PUBLIC_URL}/images/cv_temp.jpg`}
+                src = {`${process.env.PUBLIC_URL}/images/profilepic.jpg`}
                 alt = "person"
                 />
-            </div>
+            {/* </div> */}
         </div>
     )
 }
